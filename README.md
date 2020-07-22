@@ -1,1 +1,1 @@
-# SEK2020
+Repositório com o conteúdo para o desafio do SLAM.
